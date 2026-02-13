@@ -1,0 +1,9 @@
+workspace:
+  data: workspace/data
+  temp: workspace/temp
+  backup: workspace/backup
+
+logging:
+  file: logs/app.log
+  level: info
+
